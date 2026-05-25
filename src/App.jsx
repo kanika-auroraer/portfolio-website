@@ -5,7 +5,7 @@ function App() {
     <div className="app">
 
       <section className="hero">
-        <h1>Your Name</h1>
+        <h1>Kanika Sheokand</h1>
 
         <h2>
           Data Engineer | Analytics Engineer | GenAI Enthusiast
